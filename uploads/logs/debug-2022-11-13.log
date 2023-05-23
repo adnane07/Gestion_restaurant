@@ -1,0 +1,105 @@
+[13-Nov-2022 05:40:18 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 05:40:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 05:41:25 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 05:41:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 05:43:17 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:43:28 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:43:39 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:43:50 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:44:00 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:44:11 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:44:22 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:44:32 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:44:43 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:44:54 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:45:04 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:45:15 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:45:25 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:45:36 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 05:45:47 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 07:03:54 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 07:03:57 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:03:57 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:03:57 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:03:57 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:03:57 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:03:57 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:03:57 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 150
+[13-Nov-2022 07:04:17 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:04:17 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:04:17 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:04:17 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:04:17 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:04:17 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:04:17 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 150
+[13-Nov-2022 07:04:52 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:05:31 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:08:10 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:10:47 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:18:45 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:21:03 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:24:11 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:24:30 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 07:24:38 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:24:38 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:24:38 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:24:38 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:24:38 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:24:38 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 07:24:38 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 150
+[13-Nov-2022 07:27:52 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 07:27:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 07:36:41 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:37:07 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 07:37:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 07:38:03 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:38:25 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 07:38:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 07:39:02 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:39:09 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 07:39:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 07:39:49 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:40:23 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 07:40:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 07:40:26 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 07:40:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 07:44:12 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 07:44:27 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 08:48:41 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 08:48:52 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 08:49:02 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 08:49:13 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 08:49:24 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-daily/index.php on line 133
+[13-Nov-2022 08:58:21 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 08:58:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 08:59:33 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 08:59:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 09:04:03 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 09:04:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 09:04:33 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 09:04:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 09:04:36 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 09:04:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 09:06:00 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 09:06:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 09:06:17 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 09:06:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 09:06:21 UTC] PHP Notice:  Undefined index: table in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 5
+[13-Nov-2022 09:06:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
+[13-Nov-2022 09:08:13 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 09:08:27 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 09:09:15 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 09:11:50 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 09:13:26 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 10:24:46 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 10:24:46 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 10:24:46 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 10:24:46 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 10:24:46 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 10:24:46 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 10:24:46 UTC] PHP Notice:  Undefined index: dateof in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 79
+[13-Nov-2022 10:24:46 UTC] PHP Notice:  Undefined variable: today in /home/muhannad1/public_html/themes/altum/views/orders-of/index.php on line 150
+[13-Nov-2022 12:28:34 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 12:30:19 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 12:32:26 UTC] PHP Notice:  Undefined property: stdClass::$resource_name in /home/muhannad1/public_html/themes/altum/views/admin/languages/admin_language_dropdown_button.php on line 11
+[13-Nov-2022 21:50:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/muhannad1/public_html/themes/altum/views/s/store/new-york/index.php on line 7
